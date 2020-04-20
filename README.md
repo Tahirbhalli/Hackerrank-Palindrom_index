@@ -17,8 +17,8 @@ Contributions, issues and feature requests are welcome! Start by:
 * Push your branch up to your forked repository
 * Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-## Assignment link
- [repl.it](https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/palindrome-index) 
+## Coding challange link
+ [Hackerrank](https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/palindrome-index) 
 
 ## Authors
 
